@@ -43,3 +43,5 @@ Implementação:
 A função renderComments() recebe a lista de comentários como argumento.
 Os comentários são mapeados para renderizar dinamicamente o conteúdo.
 Se os comentários forem nulos, retorna um div vazio.
+
+![alt text](<Captura de tela 2024-12-04 195504.png>)
